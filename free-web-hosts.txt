@@ -1,0 +1,32 @@
+Free services:
+
+Back end as a service
+https://firebase.google.com/
+https://supabase.com/docs
+https://www.mongodb.com/docs/realm/
+https://planetscale.com/
+https://appwrite.io/
+
+Front-end only (React/Angular apps, etc)
+https://vercel.com/
+https://surge.sh/
+https://nhost.io/
+
+Full-Stack
+https://www.netlify.com/
+https://adaptable.io/
+https://www.digitalocean.com/products/app-platform
+https://pages.github.com/
+https://railway.app/
+https://render.com/
+https://fly.io/
+https://ngrok.com/
+https://aws.amazon.com/amplify/?nc=sn&loc=0
+https://www.cyclic.sh/
+https://zeet.co/
+https://glitch.com/
+https://www.stormkit.io/
+https://workers.cloudflare.com/
+https://www.sanity.io/
+https://deta.space/
+https://replit.com/
